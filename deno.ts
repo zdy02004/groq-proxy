@@ -11,4 +11,4 @@ Deno.serve(async (request) => {
     redirect: "follow",
   });
   return await fetch(newRequest);
-}); 改为可同时转发 console.groq.com  api.groq.com  api.stytchb2b.groq.com
+}); 
